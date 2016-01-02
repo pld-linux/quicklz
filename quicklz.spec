@@ -11,7 +11,7 @@ Group:		Libraries
 Source0:	http://www.quicklz.com/%{name}.c
 # Source0-md5:	76c8722e413ee99aff2ded50ced8b666
 Source1:	http://www.quicklz.com/%{name}.h
-# Source1-md5:	bee8a040eb4dd5de77ab180b017c3582
+# Source1-md5:	35e9b485b15c447f8306654ed0d584de
 URL:		http://www.quicklz.com/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
